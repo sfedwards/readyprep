@@ -1,23 +1,15 @@
 import { Injectable } from '@nestjs/common';
+import * as bcrypt from 'bcrypt';
 
-import argon2 = require('argon2');
-
-const ARGON2_OPTIONS: argon2.Options & { raw: false } = {
-  type: argon2.argon2id,
-  hashLength: 32,
-  parallelism: 4,
-  memoryCost: 2 ** 15, // Amount in KiB
-  timeCost: 32,
-  raw: false,
-};
+const SALT_ROUNDS = 12;
 
 @Injectable()
 export class PasswordHashService {
   async hash(password: string): Promise<string> {
-    return await argon2.hash(password, ARGON2_OPTIONS);
+    return await bcrypt.hash(password, SALT_ROUNDS);
   }
 
   async verify(hash: string, password: string): Promise<boolean> {
-    return await argon2.verify(hash, password, ARGON2_OPTIONS);
+    return await bcrypt.compare(password, hash);
   }
 }
