@@ -1,0 +1,326 @@
+[
+  {
+    "name": "avocado",
+    "packPrice": "55",
+    "packSize": "60",
+    "packAmountPerItem": "1",
+    "packItemUnitSymbol": "ct",
+    "waste": ""
+  },
+  {
+    "name": "bacon",
+    "packPrice": "15.74",
+    "packSize": "",
+    "packAmountPerItem": "3",
+    "packItemUnitSymbol": "lb",
+    "waste": ""
+  },
+  {
+    "name": "basil, fresh",
+    "packPrice": "10.95",
+    "packSize": "",
+    "packAmountPerItem": "1",
+    "packItemUnitSymbol": "lb",
+    "conversions": [
+      {"amountA": 2, "unitA": "tbsp", "amountB": 5.3, "unitB": "g" }
+    ],
+    "waste": "20"
+  },
+  {
+    "name": "black pepper, ground",
+    "packPrice": "15.33",
+    "packSize": "",
+    "packAmountPerItem": "1",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "tbsp", "amountB": 6.9, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "blue cheese",
+    "packPrice": "36.4",
+    "packSize": "12",
+    "packAmountPerItem": "4",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup","amountB": 135, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "bread flour",
+    "packPrice": "34.63",
+    "packSize": "4",
+    "packAmountPerItem": "10",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 137, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "broccoli",
+    "packPrice": "36.85",
+    "packSize": "",
+    "packAmountPerItem": "20",
+    "packItemUnitSymbol": "lb",
+    "waste": "40"
+  },
+  {
+    "name": "brown rice",
+    "packPrice": "22.02",
+    "packSize": "6",
+    "packAmountPerItem": "24",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 0.25, "unitA": "cup", "amountB": 48, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "cheese, parmesan",
+    "packPrice": "72.49",
+    "packSize": "3",
+    "packAmountPerItem": "5",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 100, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "chicken breast",
+    "packPrice": "17.98",
+    "packSize": "",
+    "packAmountPerItem": "16",
+    "packItemUnitSymbol": "ct",
+    "waste": ""
+  },
+  {
+    "name": "chopped tomatoes, can",
+    "packPrice": "24.6",
+    "packSize": "12",
+    "packAmountPerItem": "28",
+    "packItemUnitSymbol": "oz",
+    "conversions": [
+      {"amountA": 0.5, "unitA": "cup", "amountB": 121, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "dry yeast",
+    "packPrice": "66.31",
+    "packSize": "12",
+    "packAmountPerItem": "4",
+    "packItemUnitSymbol": "oz",
+    "waste": ""
+  },
+  {
+    "name": "eggs",
+    "packPrice": "22.57",
+    "packSize": "15",
+    "packAmountPerItem": "12",
+    "packItemUnitSymbol": "ct",
+    "waste": ""
+  },
+  {
+    "name": "garlic cloves, minced",
+    "packPrice": "27.5",
+    "packSize": "",
+    "packAmountPerItem": "5",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "ct", "amountB": 3, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "mozzarella, shredded",
+    "packPrice": "68.99",
+    "packSize": "4",
+    "packAmountPerItem": "5",
+    "packItemUnitSymbol": "lb",
+    "waste": ""
+  },
+  {
+    "name": "mustard, dijon",
+    "packPrice": "31.12",
+    "packSize": "12",
+    "packAmountPerItem": "9",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 249, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "olive oil",
+    "packPrice": "28.5",
+    "packSize": "",
+    "packAmountPerItem": "3",
+    "packItemUnitSymbol": "L",
+    "waste": ""
+  },
+  {
+    "name": "olives, black",
+    "packPrice": "25.36",
+    "packSize": "12",
+    "packAmountPerItem": "6",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "ct", "amountB": 3.2, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "peppercorns",
+    "packPrice": "15.19",
+    "packSize": "",
+    "packAmountPerItem": "1",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "tsp", "amountB": 2.9, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "pepperoni, slices",
+    "packPrice": "68.16",
+    "packSize": "",
+    "packAmountPerItem": "25",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "ct", "amountB": 2, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "red onion",
+    "packPrice": "53.6",
+    "packSize": "",
+    "packAmountPerItem": "40",
+    "packItemUnitSymbol": "lb",
+    "waste": "11"
+  },
+  {
+    "name": "romaine",
+    "packPrice": "36.9",
+    "packSize": "",
+    "packAmountPerItem": "36",
+    "packItemUnitSymbol": "lb",
+    "waste": "5"
+  },
+  {
+    "name": "salt",
+    "packPrice": "25.86",
+    "packSize": "12",
+    "packAmountPerItem": "26.5",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "tsp", "amountB": 6, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "shallots, minced",
+    "packPrice": "20.3",
+    "packSize": "",
+    "packAmountPerItem": "5",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "ct", "amountB": 25, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "sugar",
+    "packPrice": "45.2",
+    "packSize": "12",
+    "packAmountPerItem": "2",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "tsp", "amountB": 4.2, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "sweet potato",
+    "packPrice": "69.9",
+    "packSize": "",
+    "packAmountPerItem": "40",
+    "packItemUnitSymbol": "lb",
+    "waste": "15"
+  },
+  {
+    "name": "thyme",
+    "packPrice": "7.93",
+    "packSize": "",
+    "packAmountPerItem": "8",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "tsp", "amountB": 1.4, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "tomato paste",
+    "packPrice": "22.45",
+    "packSize": "12",
+    "packAmountPerItem": "7",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "tbsp", "amountB": 16, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "tomato puree",
+    "packPrice": "23.5",
+    "packSize": "12",
+    "packAmountPerItem": "28",
+    "packItemUnitSymbol": "oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 250, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "vinegar, apple cider",
+    "packPrice": "54.92",
+    "packSize": "4",
+    "packAmountPerItem": "1",
+    "packItemUnitSymbol": "gal",
+    "waste": ""
+  },
+  {
+    "name": "walnuts",
+    "packPrice": "203.93",
+    "packSize": "",
+    "packAmountPerItem": "25",
+    "packItemUnitSymbol": "lb",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 120, "unitB": "g"}
+    ],
+    "waste": ""
+  },
+  {
+    "name": "water",
+    "packPrice": "",
+    "packSize": "",
+    "packAmountPerItem": "",
+    "packItemUnitSymbol": "L",
+    "waste": ""
+  },
+  {
+    "name": "white mushrooms",
+    "packPrice": "13.3",
+    "packSize": "6",
+    "packAmountPerItem": "8",
+    "packItemUnitSymbol": "fl oz",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 96, "unitB": "g"}
+    ],
+    "waste": ""
+  }
+]

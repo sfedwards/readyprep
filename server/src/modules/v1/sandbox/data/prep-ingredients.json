@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Prep/Bacon, cooked, chopped",
+    "batchSize": 1,
+    "unit": "cup",
+    "shelfLife": 3,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "bacon", "amount": 1, "unit": "lb", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Broccoli",
+    "batchSize": 1,
+    "unit": "qt",
+    "shelfLife": 3,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "broccoli", "amount": 1, "unit": "lb", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Chicken breast, grilled",
+    "batchSize": 10,
+    "unit": "ct",
+    "shelfLife": 3,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "chicken breast", "amount": 10, "unit": "ct", "waste": 0 },
+      { "name": "thyme", "amount": 1, "unit": "tbsp", "waste": 0 },
+      { "name": "peppercorns", "amount": 5, "unit": "tbsp", "waste": 0 },
+      { "name": "salt", "amount": 0.25, "unit": "tsp", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Dressing, vinaigrette",
+    "batchSize": 2,
+    "unit": "cup",
+    "shelfLife": 7,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "vinegar, apple cider", "amount": 1, "unit": "cup", "waste": 0 },
+      { "name": "shallots, minced", "amount": 2, "unit": "ct", "waste": 0 },
+      { "name": "mustard, dijon", "amount": 4, "unit": "tbsp", "waste": 0 },
+      { "name": "olive oil", "amount": 1, "unit": "cup", "waste": 0 },
+      { "name": "black pepper, ground", "amount": 1, "unit": "tsp", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Egg, hard boiled",
+    "batchSize": 12,
+    "unit": "ct",
+    "shelfLife": 5,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "eggs", "amount": 12, "unit": "ct", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Mushrooms, sliced",
+    "batchSize": 6.5,
+    "unit": "cup",
+    "shelfLife": 3,
+    "waste": "5",
+    "instructions": "",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 70, "unitB": "g" },
+      {"amountA": 1, "unitA": "ct", "amountB": 6, "unitB": "g"}
+      ],
+    "ingredients": [
+      { "name": "white mushrooms", "amount": 1, "unit": "lb", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Onions, red, sliced",
+    "batchSize": 4,
+    "unit": "cup",
+    "shelfLife": 2,
+    "waste": "5",
+    "instructions": "",
+    "conversions":[
+      {"amountA": 1, "unitA": "cup", "amountB": 115, "unitB": "g"}
+    ],
+    "ingredients": [
+      { "name": "red onion", "amount": 1, "unit": "lb", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Pizza dough",
+    "batchSize": 10,
+    "unit": "ct",
+    "shelfLife": 3,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "sugar", "amount": 10, "unit": "tsp", "waste": 0 },
+      { "name": "bread flour", "amount": 15, "unit": "cup", "waste": 0 },
+      { "name": "dry yeast", "amount": 2.5, "unit": "oz", "waste": 0 },
+      { "name": "water", "amount": 10, "unit": "cup", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Rice, brown",
+    "batchSize": 12,
+    "unit": "cup",
+    "shelfLife": 3,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "brown rice", "amount": 4, "unit": "cup", "waste": 0 },
+      { "name": "water", "amount": 7, "unit": "cup", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Romaine, chopped",
+    "batchSize": 5,
+    "unit": "qt",
+    "shelfLife": 2,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "romaine", "amount": 2, "unit": "lb", "waste": 5 }
+    ]
+  },
+  {
+    "name": "Prep/Sauce, pesto",
+    "batchSize": 6,
+    "unit": "cup",
+    "shelfLife": 7,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "basil, fresh", "amount": 3, "unit": "cup", "waste": 0 },
+      { "name": "walnuts", "amount": 1.5, "unit": "cup", "waste": 0 },
+      { "name": "garlic cloves, minced", "amount": 4, "unit": "ct", "waste": 0 },
+      { "name": "cheese, parmesan", "amount": 0.25, "unit": "cup", "waste": 0 },
+      { "name": "olive oil", "amount": 1, "unit": "cup", "waste": 0 },
+      { "name": "salt", "amount": 2, "unit": "tsp", "waste": 0 },
+      { "name": "black pepper, ground", "amount": 1, "unit": "tsp", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Sweet Potato, roasted, diced",
+    "batchSize": 1,
+    "unit": "qt",
+    "shelfLife": 5,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "sweet potato", "amount": 1.5, "unit": "lb", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Prep/Tomato sauce",
+    "batchSize": 2,
+    "unit": "qt",
+    "shelfLife": 7,
+    "waste": "5",
+    "instructions": "",
+    "ingredients": [
+      { "name": "olive oil", "amount": 1, "unit": "tbsp", "waste": 0 },
+      { "name": "garlic cloves, minced", "amount": 1, "unit": "ct", "waste": 0 },
+      { "name": "basil, fresh", "amount": 1, "unit": "tbsp", "waste": 0 },
+      { "name": "tomato paste", "amount": 1, "unit": "tbsp", "waste": 0 },
+      { "name": "salt", "amount": 1, "unit": "tsp", "waste": 0 },
+      { "name": "tomato puree", "amount": 1, "unit": "cup", "waste": 0 }
+    ]
+  }
+]

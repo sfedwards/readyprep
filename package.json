@@ -1,0 +1,23 @@
+{
+  "name": "readyprep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "lerna bootstrap",
+    "dev": "lerna run start --parallel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ReadyPrep/ReadyPrep.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/ReadyPrep/ReadyPrep/issues"
+  },
+  "homepage": "https://gitlab.com/ReadyPrep/ReadyPrep#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Pizza, Cheese",
+    "price": 9.95,
+    "averageWeeklySales": 80,
+    "instructions": "",
+    "ingredients": [ 
+      { "name": "Prep/Pizza dough", "amount": 1, "unit": "ct", "waste": 0 },
+      { "name": "Prep/Tomato sauce", "amount": 1, "unit": "cup", "waste": 0 },
+      { "name": "mozzarella, shredded", "amount": 4, "unit": "oz", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Pizza, Build your own",
+    "price": 14,
+    "averageWeeklySales": 70,
+    "instructions": "",
+    "ingredients": [ 
+      { "name": "Prep/Pizza dough", "amount": 1, "unit": "ct", "waste": 0 },
+      { "name": "Prep/Tomato sauce", "amount": 1, "unit": "cup", "waste": 0 },
+      { "name": "mozzarella, shredded", "amount": 4, "unit": "oz", "waste": 0 },
+      { "name": "pepperoni, slices", "amount": 10, "unit": "ct", "waste": 0 },
+      { "name": "Prep/Mushrooms, sliced", "amount": 10, "unit": "ct", "waste": 0 },
+      { "name": "olives, black", "amount": 20, "unit": "ct", "waste": 0 },
+      { "name": "Prep/Onions, red, sliced", "amount": 2, "unit": "tbsp", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Roasted Chicken Bowl",
+    "price": 12.50,
+    "averageWeeklySales": 50,
+    "instructions": "",
+    "ingredients": [
+      { "name": "Prep/Chicken breast, grilled", "amount": 1, "unit": "ct", "waste": 0 },
+      { "name": "Prep/Rice, brown", "amount": 1, "unit": "cup", "waste": 0 },
+      { "name": "Prep/Broccoli", "amount": 0.5, "unit": "cup", "waste": 0 },
+      { "name": "Prep/Sweet Potato, roasted, diced", "amount": 0.5, "unit": "cup", "waste": 0 },
+      { "name": "Prep/Sauce, pesto", "amount": 2, "unit": "fl oz", "waste": 0 }
+    ]
+  },
+  {
+    "name": "Cobb Salad",
+    "price": 13,
+    "averageWeeklySales": 45,
+    "instructions": "",
+    "ingredients": [ 
+      { "name": "Prep/Romaine, chopped", "amount": 1, "unit": "qt", "waste": 0 },
+      { "name": "Prep/Bacon, cooked, chopped", "amount": 2, "unit": "tbsp", "waste": 0 },
+      { "name": "Prep/Egg, hard boiled", "amount": 1, "unit": "ct", "waste": 0 },
+      { "name": "Prep/Chicken breast, grilled", "amount": 0.5, "unit": "ct", "waste": 0 },
+      { "name": "chopped tomatoes, can", "amount": 0.25, "unit": "cup", "waste": 0 },
+      { "name": "avocado", "amount": 0.25, "unit": "ct", "waste": 0 },
+      { "name": "blue cheese", "amount": 0.25, "unit": "cup", "waste": 0 },
+      { "name": "Prep/Dressing, vinaigrette", "amount": 2, "unit": "fl oz", "waste": 0 }
+    ]
+  }
+]

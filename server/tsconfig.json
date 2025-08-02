@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2020",
+    "sourceMap": true,
+    "baseUrl": "./src",
+    "rootDir": ".",
+    "outDir": "./dist",
+    "incremental": true,
+    "resolveJsonModule": true,
+    "lib": [
+      "es2020"
+    ],
+    "paths": {
+      "@lib/*": ["lib/*"],
+      "@modules/*": ["modules/*"],
+      "@app/*": ["modules/app/*"],
+      "@infra/*": ["modules/infra/*"],
+      "@services/*": ["modules/services/*"],
+      "@domain/*": ["domain/*"],
+      "@v1/*": ["modules/v1/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

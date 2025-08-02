@@ -1,0 +1,28 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_USER: readyprep
+      POSTGRES_PASSWORD: password
+    ports:
+      - 15400:5432
+  localstack:
+    image: localstack/localstack
+    ports:
+      - 14566:4566
+      - 14571:4571
+      - 1443:443
+    environment:
+      - SERVICES=cloudwatch,s3,ses,sns,sqs
+      - LOCALSTACK_API_KEY=${LOCALSTACK_API_KEY-}
+      - SMTP_HOST=smtp.ethereal.email:587
+      - SMTP_USER=v2ynyumrujgoptg7@ethereal.email
+      - SMTP_PASS=9j3bUN56Nb3TG45uwX
+      - SMTP_EMAIL=v2ynyumrujgoptg7@ethereal.email
+      - DEBUG=1
+
+networks:
+  default:
+    name: readyprep

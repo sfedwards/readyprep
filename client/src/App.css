@@ -1,0 +1,27 @@
+#root {
+  background: #f2f2f2;
+  min-height: 100vh;
+}
+  
+a {
+  text-decoration: none;
+  color: #924f92;
+}
+
+::selection {
+  background: #c8b3e6;
+}
+
+.footer a {
+  color: #A6A1A6;
+}
+
+.react-draggable-dragging.react-draggable-dragging {
+  z-index: 1000;
+  pointer-events: none;
+  background: #f9f9f9ee;
+}
+
+.react-draggable-dragging > td {
+  border: 'none';
+}
